@@ -1,0 +1,2422 @@
+[
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Origin Energy",
+      "file_metas": [
+        {
+          "file_name": "Origin Energy 2020 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7174517/24701018.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "22400000",
+      "source_documents": [
+        {
+          "file_name": "Origin Energy 2020 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/7174517/24701018.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 22400000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Best Buy Co. Inc.",
+      "file_metas": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "283348",
+      "source_documents": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 283348,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Tetra Pak International",
+      "file_metas": [
+        {
+          "file_name": "Tetrapak Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13665426/34520826.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1200000",
+      "source_documents": [
+        {
+          "file_name": "Tetrapak Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13665426/34520826.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1200000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Mulberry Group Plc",
+      "file_metas": [
+        {
+          "file_name": "Annual report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13667117/34525297.pdf"
+        },
+        {
+          "file_name": "Sustainbility report 2021-2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669776/34530445.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "431",
+      "source_documents": [
+        {
+          "file_name": "Annual report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13667117/34525297.pdf"
+        },
+        {
+          "file_name": "Sustainbility report 2021-2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669776/34530445.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 431,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Environmental Resources Management",
+      "file_metas": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2532",
+      "source_documents": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 2532,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Transurban SA",
+      "file_metas": [
+        {
+          "file_name": "Employees",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669979/34532844.xlsx"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "5046",
+      "source_documents": [
+        {
+          "file_name": "Employees",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669979/34532844.xlsx"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 5046,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Deutsche Bahn AG",
+      "file_metas": [
+        {
+          "file_name": "Deutsche Bahn AG Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18085456/47017994.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2770000",
+      "source_documents": [
+        {
+          "file_name": "Deutsche Bahn AG Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18085456/47017994.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 2770000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Boohoo.com",
+      "file_metas": [
+        {
+          "file_name": "Boohooplc sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13681644/34569525.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "660",
+      "source_documents": [
+        {
+          "file_name": "Boohooplc sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13681644/34569525.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 660,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "JD Sports Fashion plc",
+      "file_metas": [
+        {
+          "file_name": "Final Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13688245/34579847.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "7461",
+      "source_documents": [
+        {
+          "file_name": "Final Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13688245/34579847.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 7461,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Firmenich SA",
+      "file_metas": [
+        {
+          "file_name": "Firmenich ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657606/34511033.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "193041.78",
+      "source_documents": [
+        {
+          "file_name": "Firmenich ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657606/34511033.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 193041.78,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "New Look Retail Group",
+      "file_metas": [
+        {
+          "file_name": "New Look Retail Group annual report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13691221/34589763.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1493",
+      "source_documents": [
+        {
+          "file_name": "New Look Retail Group annual report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13691221/34589763.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1493,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Marks and Spencer Group plc",
+      "file_metas": [
+        {
+          "file_name": "Shaping the FUTURE The next phase of M&S’ transformation",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13678764/34566165.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "174000",
+      "source_documents": [
+        {
+          "file_name": "Shaping the FUTURE The next phase of M&S’ transformation",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13678764/34566165.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 174000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Itochu",
+      "file_metas": [
+        {
+          "file_name": "Itochu ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13949922/35374585.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1484602",
+      "source_documents": [
+        {
+          "file_name": "Itochu ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13949922/35374585.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1484602,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Vodafone Group Plc",
+      "file_metas": [
+        {
+          "file_name": "Vodafone ESG Addendum 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566041/41726604.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "280000",
+      "source_documents": [
+        {
+          "file_name": "Vodafone ESG Addendum 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15566041/41726604.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 280000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Origin Energy",
+      "file_metas": [
+        {
+          "file_name": "Origin FY2023 Sustainability Performance Data",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15547072/41692665.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "13690000",
+      "source_documents": [
+        {
+          "file_name": "Origin FY2023 Sustainability Performance Data",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15547072/41692665.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 13690000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "South32 Ltd",
+      "file_metas": [
+        {
+          "file_name": "South32 Ltd Sustainable Development Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15556275/41710429.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "9600000",
+      "source_documents": [
+        {
+          "file_name": "South32 Ltd Sustainable Development Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15556275/41710429.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 9600000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Woolworths Australia",
+      "file_metas": [
+        {
+          "file_name": "Woolworths Sustainability Data Pack 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15558115/41713053.xlsx"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "482624",
+      "source_documents": [
+        {
+          "file_name": "Woolworths Sustainability Data Pack 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15558115/41713053.xlsx"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 482624,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Next PLC",
+      "file_metas": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "43165",
+      "source_documents": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 43165,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Evonik",
+      "file_metas": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3842000",
+      "source_documents": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 3842000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Telstra Corporation Limited",
+      "file_metas": [
+        {
+          "file_name": "Bigger Picture Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045974/46971414.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "30738",
+      "source_documents": [
+        {
+          "file_name": "Bigger Picture Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045974/46971414.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 30738,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Marks and Spencer Group plc",
+      "file_metas": [
+        {
+          "file_name": "Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045617/46970568.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "226000",
+      "source_documents": [
+        {
+          "file_name": "Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045617/46970568.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 226000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Suncorp Group",
+      "file_metas": [
+        {
+          "file_name": "FY23 Climate-related Disclosure Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074470/47002359.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1885",
+      "source_documents": [
+        {
+          "file_name": "FY23 Climate-related Disclosure Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074470/47002359.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 1885,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total amount of Scope 1 direct greenhouse gas emissions in metric tonnes of CO2 equivalent?",
+      "custom_id": "GRI_305_1_a_Scope1_GHG",
+      "data_type": "Metric",
+      "company": "Dexus Property Group",
+      "file_metas": [
+        {
+          "file_name": "2023 Sustainability Approach and Data Pack",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074483/47002375.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "12346",
+      "source_documents": [
+        {
+          "file_name": "2023 Sustainability Approach and Data Pack",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074483/47002375.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "tCO2e",
+        "value": 12346,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "E",
+      "metric_name": "Direct greenhouse gas (GHG) emissions (Scope 1), GRI 305-1-a (formerly G4-EN15-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Best Buy Co. Inc.",
+      "file_metas": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "105000",
+      "source_documents": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 105000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Hanesbrands",
+      "file_metas": [
+        {
+          "file_name": "HanesBrands 2022 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082867/47012172.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "50000",
+      "source_documents": [
+        {
+          "file_name": "HanesBrands 2022 Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082867/47012172.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 50000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Dick's Sporting Goods",
+      "file_metas": [
+        {
+          "file_name": "2021 Annual Report and Form 10K",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656137/34504895.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "50800",
+      "source_documents": [
+        {
+          "file_name": "2021 Annual Report and Form 10K",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656137/34504895.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 50800,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "BT Group",
+      "file_metas": [
+        {
+          "file_name": "Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656298/34506199.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "100475",
+      "source_documents": [
+        {
+          "file_name": "Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656298/34506199.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 100475,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "New Look Retail Group",
+      "file_metas": [
+        {
+          "file_name": "Newlook Modern Slavery Statement 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657421/34510470.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "9848",
+      "source_documents": [
+        {
+          "file_name": "Newlook Modern Slavery Statement 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657421/34510470.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 9848,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Firmenich SA",
+      "file_metas": [
+        {
+          "file_name": "Firmenich ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657606/34511033.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "11000",
+      "source_documents": [
+        {
+          "file_name": "Firmenich ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657606/34511033.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 11000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Engie",
+      "file_metas": [
+        {
+          "file_name": "Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657567/34510881.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "101504",
+      "source_documents": [
+        {
+          "file_name": "Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657567/34510881.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 101504,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "HP Inc",
+      "file_metas": [
+        {
+          "file_name": "HP 2022 Proxy Statement",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657786/34511556.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "51000",
+      "source_documents": [
+        {
+          "file_name": "HP 2022 Proxy Statement",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13657786/34511556.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 51000,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Tetra Pak International",
+      "file_metas": [
+        {
+          "file_name": "Tetra Pak Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13660179/34515037.pdf"
+        },
+        {
+          "file_name": "Tetrapak Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13665426/34520826.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "25147",
+      "source_documents": [
+        {
+          "file_name": "Tetra Pak Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13660179/34515037.pdf"
+        },
+        {
+          "file_name": "Tetrapak Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13665426/34520826.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 25147,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Deutsche Bahn AG",
+      "file_metas": [
+        {
+          "file_name": "Deutsche Bahn Integrated interim report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666703/34523714.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "324526",
+      "source_documents": [
+        {
+          "file_name": "Deutsche Bahn Integrated interim report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666703/34523714.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 324526,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Environmental Resources Management",
+      "file_metas": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "7015",
+      "source_documents": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 7015,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Yamaha Corporation",
+      "file_metas": [
+        {
+          "file_name": "Yamaha group social data 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13667885/34527691.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "28758",
+      "source_documents": [
+        {
+          "file_name": "Yamaha group social data 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13667885/34527691.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 28758,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Itochu",
+      "file_metas": [
+        {
+          "file_name": "ESG Data 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553024/41705270.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4112",
+      "source_documents": [
+        {
+          "file_name": "ESG Data 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553024/41705270.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 4112,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "AO Smith Corporation",
+      "file_metas": [
+        {
+          "file_name": "2022 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15639406/41835307.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "12000",
+      "source_documents": [
+        {
+          "file_name": "2022 Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15639406/41835307.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 12000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Enel",
+      "file_metas": [
+        {
+          "file_name": "Enel Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20257562/49852893.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "61055",
+      "source_documents": [
+        {
+          "file_name": "Enel Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/20257562/49852893.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 61055,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Walmart",
+      "file_metas": [
+        {
+          "file_name": "Walmart ESG Data Table 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696365/41996776.xlsx"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2100000",
+      "source_documents": [
+        {
+          "file_name": "Walmart ESG Data Table 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696365/41996776.xlsx"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 2100000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Larsen & Toubro",
+      "file_metas": [
+        {
+          "file_name": "Larsen & Toubro Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696939/42028196.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "55202",
+      "source_documents": [
+        {
+          "file_name": "Larsen & Toubro Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696939/42028196.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 55202,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Capri Holdings Ltd (formerly Michael Kors)",
+      "file_metas": [
+        {
+          "file_name": "Number of employees of Capri Holdings (formerly Michael Kors) worldwide from 2014 to 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18035466/46909840.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "15500",
+      "source_documents": [
+        {
+          "file_name": "Number of employees of Capri Holdings (formerly Michael Kors) worldwide from 2014 to 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18035466/46909840.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 15500,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "JD Sports Fashion plc",
+      "file_metas": [
+        {
+          "file_name": "JD Sports Fashion",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037289/46914813.pdf"
+        },
+        {
+          "file_name": "JD Sports Fashion Official Website",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037305/46914837.pdf"
+        },
+        {
+          "file_name": "JD PLC Final Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037317/46914870.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "75000",
+      "source_documents": [
+        {
+          "file_name": "JD Sports Fashion",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037289/46914813.pdf"
+        },
+        {
+          "file_name": "JD Sports Fashion Official Website",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037305/46914837.pdf"
+        },
+        {
+          "file_name": "JD PLC Final Annual Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037317/46914870.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 75000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Next PLC",
+      "file_metas": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "44000",
+      "source_documents": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 44000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Evonik",
+      "file_metas": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "33409",
+      "source_documents": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 33409,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Burlington Stores Inc",
+      "file_metas": [
+        {
+          "file_name": "Number of Employees at Burlington Stores",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045169/46969725.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "61166",
+      "source_documents": [
+        {
+          "file_name": "Number of Employees at Burlington Stores",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045169/46969725.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 61166,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Marks and Spencer Group plc",
+      "file_metas": [
+        {
+          "file_name": "Annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045779/46970930.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "64261",
+      "source_documents": [
+        {
+          "file_name": "Annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045779/46970930.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 64261,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the company's total number of employees?",
+      "custom_id": "GRI_102_8_a_Total_Employees",
+      "data_type": "Metric",
+      "company": "Telstra Corporation Limited",
+      "file_metas": [
+        {
+          "file_name": "Bigger Picture Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045974/46971414.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "31000",
+      "source_documents": [
+        {
+          "file_name": "Bigger Picture Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045974/46971414.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 31000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "S",
+      "metric_name": "Employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Best Buy Co. Inc.",
+      "file_metas": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "26628",
+      "source_documents": [
+        {
+          "file_name": "Best Buy ESG report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13652786/34494111.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 26628,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "BT Group",
+      "file_metas": [
+        {
+          "file_name": "Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656298/34506199.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "25972",
+      "source_documents": [
+        {
+          "file_name": "Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13656298/34506199.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 25972,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Environmental Resources Management",
+      "file_metas": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3394",
+      "source_documents": [
+        {
+          "file_name": "ERM Sustainability Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666807/34524100.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 3394,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Deutsche Bahn AG",
+      "file_metas": [
+        {
+          "file_name": "Deutsche Bahn Integrated interim report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666703/34523714.pdf"
+        },
+        {
+          "file_name": "Deutsche Bahn AG Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18085456/47017994.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "84221",
+      "source_documents": [
+        {
+          "file_name": "Deutsche Bahn Integrated interim report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13666703/34523714.pdf"
+        },
+        {
+          "file_name": "Deutsche Bahn AG Integrated Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18085456/47017994.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 84221,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Transurban SA",
+      "file_metas": [
+        {
+          "file_name": "Corporate Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13668013/34527874.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3870",
+      "source_documents": [
+        {
+          "file_name": "Corporate Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13668013/34527874.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 3870,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Ted Baker",
+      "file_metas": [
+        {
+          "file_name": "Ted Baker Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669764/34530406.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1586",
+      "source_documents": [
+        {
+          "file_name": "Ted Baker Annual Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13669764/34530406.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 1586,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Boohoo.com",
+      "file_metas": [
+        {
+          "file_name": "Boohoo Sustainability report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13678598/34565962.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3240",
+      "source_documents": [
+        {
+          "file_name": "Boohoo Sustainability report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/13678598/34565962.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 3240,
+        "time_period": "2022"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Itochu",
+      "file_metas": [
+        {
+          "file_name": "ESG Data 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553024/41705270.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1001",
+      "source_documents": [
+        {
+          "file_name": "ESG Data 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15553024/41705270.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 1001,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "AO Smith Corporation",
+      "file_metas": [
+        {
+          "file_name": "AO Smith ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15639424/41835377.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "4680",
+      "source_documents": [
+        {
+          "file_name": "AO Smith ESG Report 2022",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15639424/41835377.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 4680,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Walmart",
+      "file_metas": [
+        {
+          "file_name": "Walmart ESG Data Table 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696365/41996776.xlsx"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "1113000",
+      "source_documents": [
+        {
+          "file_name": "Walmart ESG Data Table 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696365/41996776.xlsx"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 1113000,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Larsen & Toubro",
+      "file_metas": [
+        {
+          "file_name": "Larsen & Toubro Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696939/42028196.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "3763",
+      "source_documents": [
+        {
+          "file_name": "Larsen & Toubro Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/15696939/42028196.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 3763,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Next PLC",
+      "file_metas": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "30800",
+      "source_documents": [
+        {
+          "file_name": "Next PLC Corporate Responsibility Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037331/46914905.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 30800,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Evonik",
+      "file_metas": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "9020",
+      "source_documents": [
+        {
+          "file_name": "Evonik Sustainability Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18037783/46915899.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 9020,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Marks and Spencer Group plc",
+      "file_metas": [
+        {
+          "file_name": "Annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045779/46970930.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "44035",
+      "source_documents": [
+        {
+          "file_name": "Annual report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18045779/46970930.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 44035,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Puma",
+      "file_metas": [
+        {
+          "file_name": "PUMA Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18046255/46971883.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "9570",
+      "source_documents": [
+        {
+          "file_name": "PUMA Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18046255/46971883.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 9570,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Adidas AG",
+      "file_metas": [
+        {
+          "file_name": "Adidas AG Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074969/47003365.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "30105",
+      "source_documents": [
+        {
+          "file_name": "Adidas AG Annual Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074969/47003365.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 30105,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Fast Retailing",
+      "file_metas": [
+        {
+          "file_name": "Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074999/47003411.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "41251",
+      "source_documents": [
+        {
+          "file_name": "Integrated Report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18074999/47003411.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 41251,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Deckers Outdoor Corporation",
+      "file_metas": [
+        {
+          "file_name": "CREATING CHANGE FY 2023 Corporate Responsibility and Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18078572/47007376.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "2814",
+      "source_documents": [
+        {
+          "file_name": "CREATING CHANGE FY 2023 Corporate Responsibility and Sustainability Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18078572/47007376.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 2814,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Capri Holdings Ltd (formerly Michael Kors)",
+      "file_metas": [
+        {
+          "file_name": "2023 ANNUAL UPDATE CORPORATE SOCIAL RESPONSIBILITY",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18035419/46909737.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "11160",
+      "source_documents": [
+        {
+          "file_name": "2023 ANNUAL UPDATE CORPORATE SOCIAL RESPONSIBILITY",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18035419/46909737.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 11160,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Nike Inc.",
+      "file_metas": [
+        {
+          "file_name": "2023 Nike Impact Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082681/47011780.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "37680",
+      "source_documents": [
+        {
+          "file_name": "2023 Nike Impact Report",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082681/47011780.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 37680,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  },
+  {
+    "input": {
+      "question": "What is the total number of female employees?",
+      "custom_id": "GRI_102_8_a_Female_Employees",
+      "data_type": "Metric",
+      "company": "Ralph Lauren Corporation",
+      "file_metas": [
+        {
+          "file_name": "Ralph Lauren CSR report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082540/47011558.pdf"
+        }
+      ]
+    },
+    "reference_output": {
+      "answer": "14972",
+      "source_documents": [
+        {
+          "file_name": "Ralph Lauren CSR report 2023",
+          "file_url": "https://wikirate-production-storage.fra1.cdn.digitaloceanspaces.com/files/18082540/47011558.pdf"
+        }
+      ]
+    },
+    "structured_data": [
+      {
+        "unit": "employees",
+        "value": 14972,
+        "time_period": "2023"
+      }
+    ],
+    "metadata": {
+      "pillar": "G",
+      "metric_name": "Female employees, GRI 102-8-a (formerly G4-10-a)",
+      "metric_designer": "Global Reporting Initiative"
+    }
+  }
+]
