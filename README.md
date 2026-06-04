@@ -1,4 +1,4 @@
-# README – WikiRate ESG Dataset for ML Evaluation
+# README – WikiRate ESG Dataset for ML,LLM Evaluation
 
 ## Overview
 This repository contains a Python notebook and JSON export that transform ESG metrics from [WikiRate](https://wikirate.org/) into a structured dataset suitable for ML models. The goal was not to maximize volume, but to build a small, high-quality dataset conforming to the target schema.
